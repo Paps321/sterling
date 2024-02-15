@@ -1,0 +1,24 @@
+.circle{
+  border-radius: 50%;
+  margin-left: 120px;
+  margin-right: 120px;
+  padding-top: 80px
+  padding-bottom:40px;
+  background-color: indianred;
+  
+}
+.innercircle{
+  border-radius: 43%;
+  padding: 17px;
+  margin-left: 110px;
+  margin-right: 80px;
+  background-color: white;
+  margin-bottom: 70%;
+  margin-top: 20%;
+}
+p{
+  color:gray;
+  margin-left: 200px;
+  font-size: 30px;
+  font-family: fantasy;
+}
